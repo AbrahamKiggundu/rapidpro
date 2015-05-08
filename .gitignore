@@ -1,6 +1,7 @@
 # General
 .DS_Store
 .idea
+*.iml
 .ipynb_checkpoints
 *.pyc
 *~
